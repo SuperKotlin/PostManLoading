@@ -7,11 +7,8 @@ import android.graphics.Color;
 import android.graphics.Paint;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
-import android.util.Log;
 import android.view.View;
 import android.view.animation.LinearInterpolator;
-
-import java.util.Random;
 
 /**
  * Created by zhuyong on 2017/7/20.
